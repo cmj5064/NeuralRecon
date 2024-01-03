@@ -17,4 +17,4 @@ dependencies:
   - pip
   - pip:
     - -r requirements.txt
-    - git+https://github.com/mit-han-lab/torchsparse.git
+    - git+https://github.com/mit-han-lab/torchsparse.git # 1.4.0
